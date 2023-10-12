@@ -3,3 +3,4 @@
 В разработке были использованы такие языки программирования: PHP, JavaScript; а также PHP-фреймворк Yii2 и CSS-фреймворк Bootstrap5.
 Также была разработана база данных MySQL для хранения данных системы.
 
+![image](https://github.com/RammyBlammy/TourComplex/assets/110770366/27167303-7887-46ee-9b2f-c340a6b6f15e)
